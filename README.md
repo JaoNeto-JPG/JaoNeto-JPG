@@ -1,8 +1,7 @@
-### Olá, me chamo Matheus, bem vindo ao meu perfil 😊
+### Olá, me chamo João, bem vindo ao meu perfil!
 
-- 📖 Concluindo a formação de Analista de Sistemas pela Facthus em Uberaba - MG
-- 🔭 Estudando Angular
-- ⚡ Desenvolvedor Full Stack - Tech Lead na Unimed Uberaba - trabalhando com desenvolvimento de aplicações Web, utilizando-se Spring e Angular
+- 📖 Cursando o bacharel em Sistemas de Informação pela Uniube em Uberaba - MG
+- 🔭 Estudante de desenvolvimento Front-End, aprofundando os estudos em tecnologias como JavaScript, HTML e CSS
 
 ##
 
@@ -56,7 +55,7 @@
 ##
 
 <div> 
-  <a href="https://www.instagram.com/math.szvks/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_jaoneeto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.russiancorp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-sizervinks-ferreira-b77a4513a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joao-neeto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div
