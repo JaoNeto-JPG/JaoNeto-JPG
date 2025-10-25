@@ -1,6 +1,6 @@
 ### Olá, me chamo João Neto, bem vindo ao meu perfil!
 
-- 📖 Cursando o bacharel em Sistemas de Informação pela Uniube em Uberaba - MG
+- 📖 Cursando bacharelado em Sistemas de Informação pela Uniube em Uberaba - MG
 - 🔭 Estudante de desenvolvimento Front-End, aprofundando os estudos em tecnologias como JavaScript, HTML e CSS
 
 ##
